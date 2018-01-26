@@ -118,7 +118,7 @@ public:
         nDefaultPort = 9666;
         nPruneAfterHeight = 100000;
 
-        genesis = CreateGenesisBlock(1513784917, 2084820399, 0x1e0ffff0, 1, 50 * COIN);
+        genesis = CreateGenesisBlock(1516943825, 2086051390, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
         assert(consensus.hashGenesisBlock == uint256S("0x79e617d80cffb1fde6cfb66870f0fed9d96dd5a5b6e5f9cd9737b11a0e6d0676"));
         assert(genesis.hashMerkleRoot == uint256S("0x7b613ac474706231be0b46f9fbc786925afb01660a2178a3bbd17eb48cf7e582"));
@@ -172,7 +172,7 @@ public:
 
         chainTxData = ChainTxData{
             // Data as of block db42d00d824950a125f9b08b6b6c282c484781562fa8b3bd29d6ce4a2627c348 (height 1259851).
-            1513784917, // * UNIX timestamp of last known number of transactions
+            1516943825, // * UNIX timestamp of last known number of transactions
             0,  // * total number of transactions between genesis and that timestamp
                     //   (the tx=... number in the SetBestChain debug.log lines)
             0.0     // * estimated number of transactions per second after that timestamp
