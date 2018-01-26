@@ -121,7 +121,7 @@ public:
         genesis = CreateGenesisBlock(1513784917, 2084820399, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
         assert(consensus.hashGenesisBlock == uint256S("0x79e617d80cffb1fde6cfb66870f0fed9d96dd5a5b6e5f9cd9737b11a0e6d0676"));
-        assert(genesis.hashMerkleRoot == uint256S("0x805d8d176abe872f5cd40b558869a0d25ed02ae471fa33f80185443e5ca9cb40"));
+        assert(genesis.hashMerkleRoot == uint256S("0x7b613ac474706231be0b46f9fbc786925afb01660a2178a3bbd17eb48cf7e582"));
 
         // Note that of those with the service bits flag, most only support a subset of possible options
         vSeeds.emplace_back("dnsseed.faithco.in", true);
