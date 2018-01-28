@@ -4066,8 +4066,8 @@
     </message>
     <message>
         <location line="-384"/>
-        <source>strayacoin Core</source>
-        <translation type="unfinished">strayacoin Core</translation>
+        <source>Strayacoin Core</source>
+        <translation type="unfinished">Strayacoin Core</translation>
     </message>
     <message>
         <location line="+1"/>

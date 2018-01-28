@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>strayacoin</source>
-        <translation>strayacoin Core</translation>
+        <translation>Strayacoin Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -832,8 +832,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>strayacoin Core</source>
-        <translation>strayacoin Core</translation>
+        <source>Strayacoin Core</source>
+        <translation>Strayacoin Core</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>

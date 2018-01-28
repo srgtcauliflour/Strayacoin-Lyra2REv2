@@ -752,7 +752,7 @@
         <translation>Gumana king gulut bilang daemon at tumanggap commands</translation>
     </message>
     <message>
-        <source>strayacoin Core</source>
+        <source>Strayacoin Core</source>
         <translation>Kapilubluban ning strayacoin</translation>
     </message>
     <message>

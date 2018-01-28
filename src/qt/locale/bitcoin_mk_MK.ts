@@ -578,7 +578,7 @@
         <translation>Опции:</translation>
     </message>
     <message>
-        <source>strayacoin Core</source>
+        <source>Strayacoin Core</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>

@@ -1,11 +1,11 @@
-strayacoin Core
+Strayacoin Core
 =============
 
 Setup
 ---------------------
-strayacoin Core is the original strayacoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of strayacoin transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Strayacoin Core is the original strayacoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of strayacoin transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download strayacoin Core, visit [strayacoin.org](https://www.strayacoin.org/).
+To download Strayacoin Core, visit [strayacoin.org](https://www.strayacoin.org/).
 
 Running
 ---------------------

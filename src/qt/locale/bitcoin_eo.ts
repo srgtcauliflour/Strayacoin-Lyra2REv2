@@ -1338,7 +1338,7 @@
         <translation>Ruli fone kiel demono kaj akcepti komandojn</translation>
     </message>
     <message>
-        <source>strayacoin Core</source>
+        <source>Strayacoin Core</source>
         <translation>Kerno de strayacoino</translation>
     </message>
     <message>

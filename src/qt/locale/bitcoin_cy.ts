@@ -640,7 +640,7 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>strayacoin Core</source>
+        <source>Strayacoin Core</source>
         <translation>Craidd strayacoin</translation>
     </message>
     <message>

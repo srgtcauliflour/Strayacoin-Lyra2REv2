@@ -2430,7 +2430,7 @@
         <translation>HTTP-palvelinta ei voitu käynnistää. Katso debug-lokista lisätietoja.</translation>
     </message>
     <message>
-        <source>strayacoin Core</source>
+        <source>Strayacoin Core</source>
         <translation>strayacoin-ydin</translation>
     </message>
     <message>

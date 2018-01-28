@@ -1258,8 +1258,8 @@
         <translation>Запусціць у фоне як дэман і прымаць каманды</translation>
     </message>
     <message>
-        <source>strayacoin Core</source>
-        <translation>strayacoin Core</translation>
+        <source>Strayacoin Core</source>
+        <translation>Strayacoin Core</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>

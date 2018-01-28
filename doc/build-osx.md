@@ -24,7 +24,7 @@ If you want to build the disk image with `make deploy` (.dmg / optional), you ne
 
 NOTE: Building with Qt4 is still supported, however, could result in a broken UI. Building with Qt5 is recommended.
 
-Build strayacoin Core
+Build Strayacoin Core
 ------------------------
 
 1. Clone the strayacoin source code and cd into `strayacoin`
@@ -53,7 +53,7 @@ Build strayacoin Core
 Running
 -------
 
-strayacoin Core is now available at `./src/strayacoind`
+Strayacoin Core is now available at `./src/strayacoind`
 
 Before running, it's recommended you create an RPC configuration file.
 

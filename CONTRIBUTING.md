@@ -1,7 +1,7 @@
-Contributing to strayacoin Core
+Contributing to Strayacoin Core
 ============================
 
-The strayacoin Core project operates an open contributor model where anyone is
+The Strayacoin Core project operates an open contributor model where anyone is
 welcome to contribute towards development in the form of peer review, testing
 and patches. This document explains the practical process and guidelines for
 contributing.
@@ -157,10 +157,10 @@ where possible keep them short, uncomplex and easy to verify.
 "Decision Making" Process
 -------------------------
 
-The following applies to code changes to the strayacoin Core project, and is not to be confused with overall strayacoin
+The following applies to code changes to the Strayacoin Core project, and is not to be confused with overall strayacoin
 Network Protocol consensus changes.
 
-Whether a pull request is merged into strayacoin Core rests with the project merge
+Whether a pull request is merged into Strayacoin Core rests with the project merge
 maintainers and ultimately the project lead.
 
 Maintainers will take into consideration if a patch is in line with the general
@@ -259,11 +259,11 @@ about:
 Release Policy
 --------------
 
-The project leader is the release manager for each strayacoin Core release.
+The project leader is the release manager for each Strayacoin Core release.
 
 Copyright
 ---------
-Copyright 2017 The strayacoin Core Developers
+Copyright 2017 The Strayacoin Core Developers
 
 - bitcoin: Copyright (c) 2009-2017 Bitcoin Core Developers (MIT License)
 

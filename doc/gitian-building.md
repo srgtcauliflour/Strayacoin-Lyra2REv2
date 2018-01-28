@@ -1,7 +1,7 @@
 Gitian building
 ================
 
-*Setup instructions for a Gitian build of strayacoin Core using a Debian VM or physical system.*
+*Setup instructions for a Gitian build of Strayacoin Core using a Debian VM or physical system.*
 
 Gitian is the deterministic build process that is used to build the strayacoin
 Core executables. It provides a way to be reasonably sure that the
@@ -26,7 +26,7 @@ Table of Contents
 - [Installing Gitian](#installing-gitian)
 - [Setting up the Gitian image](#setting-up-the-gitian-image)
 - [Getting and building the inputs](#getting-and-building-the-inputs)
-- [Building strayacoin Core](#building-strayacoin-core)
+- [Building Strayacoin Core](#building-strayacoin-core)
 - [Building an alternative repository](#building-an-alternative-repository)
 - [Signing externally](#signing-externally)
 - [Uploading signatures](#uploading-signatures)
@@ -349,10 +349,10 @@ manual intervention. Also optionally follow the next step: 'Seed the Gitian sour
 and offline git repositories' which will fetch the remaining files required for building
 offline.
 
-Building strayacoin Core
+Building Strayacoin Core
 ----------------
 
-To build strayacoin Core (for Linux, OS X and Windows) just follow the steps under 'perform
+To build Strayacoin Core (for Linux, OS X and Windows) just follow the steps under 'perform
 Gitian builds' in [doc/release-process.md](release-process.md#perform-gitian-builds) in the strayacoin repository.
 
 This may take some time as it will build all the dependencies needed for each descriptor.

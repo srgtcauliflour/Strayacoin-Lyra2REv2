@@ -1012,7 +1012,7 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>strayacoin Core</source>
+        <source>Strayacoin Core</source>
         <translation>strayacoin Kern</translation>
     </message>
     <message>

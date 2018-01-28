@@ -1123,7 +1123,7 @@
 </translation>
     </message>
     <message>
-        <source>strayacoin Core</source>
+        <source>Strayacoin Core</source>
         <translation>Núcleo de strayacoin</translation>
     </message>
     <message>

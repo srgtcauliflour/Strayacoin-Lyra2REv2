@@ -772,7 +772,7 @@
 </translation>
     </message>
     <message>
-        <source>strayacoin Core</source>
+        <source>Strayacoin Core</source>
         <translation>strayacoin core</translation>
     </message>
     <message>
