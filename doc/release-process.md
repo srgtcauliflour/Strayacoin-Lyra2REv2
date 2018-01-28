@@ -5,7 +5,7 @@ Before every release candidate:
 
 * Update translations (ping wumpus on IRC) see [translation_process.md](https://github.com/bitcoin/bitcoin/blob/master/doc/translation_process.md#synchronising-translations).
 
-* Update manpages, see [gen-manpages.sh](https://github.com/strayacoin-project/strayacoin/blob/master/contrib/devtools/README.md#gen-manpagessh).
+* Update manpages, see [gen-manpages.sh](https://github.com/LucienZerger/straya-coin/blob/master/contrib/devtools/README.md#gen-manpagessh).
 
 Before every minor and major release:
 
@@ -34,9 +34,9 @@ Check out the source code in the following directory hierarchy.
 
     cd /path/to/your/toplevel/build
     git clone https://github.com/strayacoin-project/gitian.sigs.ltc.git
-    git clone https://github.com/strayacoin-project/strayacoin-detached-sigs.git
+    git clone https://github.com/LucienZerger/straya-coin-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/strayacoin-project/strayacoin.git
+    git clone https://github.com/LucienZerger/straya-coin.git
 
 ### strayacoin maintainers/release engineers, suggestion for writing release notes
 
@@ -195,7 +195,7 @@ Codesigner only: Commit the detached codesign payloads:
 Non-codesigners: wait for Windows/OS X detached signatures:
 
 - Once the Windows/OS X builds each have 3 matching signatures, they will be signed with their respective release keys.
-- Detached signatures will then be committed to the [strayacoin-detached-sigs](https://github.com/strayacoin-project/strayacoin-detached-sigs) repository, which can be combined with the unsigned apps to create signed binaries.
+- Detached signatures will then be committed to the [strayacoin-detached-sigs](https://github.com/LucienZerger/straya-coin-detached-sigs) repository, which can be combined with the unsigned apps to create signed binaries.
 
 Create (and optionally verify) the signed OS X binary:
 
@@ -279,6 +279,6 @@ Note: check that SHA256SUMS itself doesn't end up in SHA256SUMS, which is a spur
 
   - Archive release notes for the new version to `doc/release-notes/` (branch `master` and branch of the release)
 
-  - Create a [new GitHub release](https://github.com/strayacoin-project/strayacoin/releases/new) with a link to the archived release notes.
+  - Create a [new GitHub release](https://github.com/LucienZerger/straya-coin/releases/new) with a link to the archived release notes.
 
   - Celebrate

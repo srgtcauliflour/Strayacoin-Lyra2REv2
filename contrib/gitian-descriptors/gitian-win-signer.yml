@@ -8,7 +8,7 @@ packages:
 - "libssl-dev"
 - "autoconf"
 remotes:
-- "url": "https://github.com/strayacoin-project/strayacoin-detached-sigs.git"
+- "url": "https://github.com/LucienZerger/straya-coin-detached-sigs.git"
   "dir": "signature"
 files:
 - "osslsigncode-1.7.1.tar.gz"
