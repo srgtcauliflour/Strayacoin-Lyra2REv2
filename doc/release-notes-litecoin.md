@@ -3,7 +3,7 @@ release-notes at release time)
 
 strayacoin Core version *0.15.0* is now available from:
 
-  <https://download.faithco.in/strayacoin-0.15.0/>
+  <https://www.strayacoin.org/>
 
 This is a new major version release, including new features, various bugfixes
 and performance improvements, as well as updated translations.

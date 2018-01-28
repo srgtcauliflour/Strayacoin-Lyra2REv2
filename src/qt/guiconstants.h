@@ -49,7 +49,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "strayacoin"
-#define QAPP_ORG_DOMAIN "faithco.in"
+#define QAPP_ORG_DOMAIN "strayacoin.org"
 #define QAPP_APP_NAME_DEFAULT "strayacoin-Qt"
 #define QAPP_APP_NAME_TESTNET "strayacoin-Qt-testnet"
 
