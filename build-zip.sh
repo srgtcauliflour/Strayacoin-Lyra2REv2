@@ -19,9 +19,9 @@ mkdir -p $RELEASE_FOLDER
 cp -v ./src/strayacoin-cli.exe $RELEASE_FOLDER/
 cp -v ./src/strayacoind.exe $RELEASE_FOLDER/
 cp -v ./src/bench/bench_strayacoin.exe $RELEASE_FOLDER/
-cp -v ./src/test/test_strayacoin.exe $RELEASE_FOLDER/
+#cp -v ./src/test/test_strayacoin.exe $RELEASE_FOLDER/
 cp -v ./src/qt/strayacoin-qt.exe $RELEASE_FOLDER/
-cp -v ./src/qt/test/test_strayacoin-qt.exe $RELEASE_FOLDER/
+#cp -v ./src/qt/test/test_strayacoin-qt.exe $RELEASE_FOLDER/
 cp -v ./src/strayacoin-tx.exe $RELEASE_FOLDER/
 cp -v ./strayacoin.conf $RELEASE_FOLDER/
 cp -v "./bin/common files/README.txt" $RELEASE_FOLDER
