@@ -7,7 +7,7 @@ It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/LucienZerger/straya-coin/issues>
+  <https://github.com/47crypto/straya-coin/issues>
 
 Compatibility
 ==============

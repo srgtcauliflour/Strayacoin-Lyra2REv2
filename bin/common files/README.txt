@@ -7,7 +7,7 @@
 * after syncing, run mine.bat while the strayacoin-qt wallet is open to begin mining
 
 ## Linux 
-* You will need to [build from source](https://github.com/LucienZerger/straya-coin/blob/master/doc/build-unix.md)
+* You will need to [build from source](https://github.com/47crypto/straya-coin/blob/master/doc/build-unix.md)
 * after building and running "sudo make install", launch strayacoin-qt, then close it
 * copy the include strayacoin.conf to ~/.strayacoin/
 * restart strayacoin-qt and the wallet should eventually sync

@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/LucienZerger/straya-coin-detached-sigs.git"
+- "url": "https://github.com/47crypto/straya-coin-detached-sigs.git"
   "dir": "signature"
 files:
 - "strayacoin-osx-unsigned.tar.gz"

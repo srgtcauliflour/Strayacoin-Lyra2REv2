@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/LucienZerger/straya-coin.git"
+- "url": "https://github.com/47crypto/straya-coin.git"
   "dir": "strayacoin"
 files: []
 script: |

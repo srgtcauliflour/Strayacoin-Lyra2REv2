@@ -29,7 +29,7 @@ Build Strayacoin Core
 
 1. Clone the strayacoin source code and cd into `strayacoin`
 
-        git clone https://github.com/LucienZerger/straya-coin
+        git clone https://github.com/47crypto/straya-coin
         cd strayacoin
 
 2.  Build strayacoin-core:
