@@ -41,6 +41,8 @@ QString BitcoinUnits::name(int unit)
     switch(unit)
     {
     case BTC: return QString("NAH");
+    case mBTC: return QString("Yeah");
+    case uBTC: return QString("Dunno");
     default: return QString("???");
     }
 }
@@ -50,6 +52,8 @@ QString BitcoinUnits::description(int unit)
     switch(unit)
     {
     case BTC: return QString("strayacoins");
+    case mBTC: return QString("yeah (1 / 1" THIN_SP_UTF8 "000)");
+    case uBTC: return QString("dunno (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
     default: return QString("???");
     }
 }
