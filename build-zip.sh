@@ -11,26 +11,26 @@
 #cp -v ./strayacoin.conf ./bin/unix/
 #zip ./bin/strayacoin-unix.zip ./bin/unix/*
 
-ZIP_FILENAME=strayacoin-x86_64-win64-$(date +%Y%m%d).$(date +%H).zip
-RELEASE_FOLDER=./bin/release
+WIN_ZIP_FILENAME=strayacoin-x86_64-win64-vx.zip
+WIN_RELEASE_FOLDER=./bin/release-win64
 
 # zip win64 binaries
-mkdir -p $RELEASE_FOLDER
-cp -v ./src/strayacoin-cli.exe $RELEASE_FOLDER/
-cp -v ./src/strayacoind.exe $RELEASE_FOLDER/
-cp -v ./src/bench/bench_strayacoin.exe $RELEASE_FOLDER/
-#cp -v ./src/test/test_strayacoin.exe $RELEASE_FOLDER/
-cp -v ./src/qt/strayacoin-qt.exe $RELEASE_FOLDER/
-#cp -v ./src/qt/test/test_strayacoin-qt.exe $RELEASE_FOLDER/
-cp -v ./src/strayacoin-tx.exe $RELEASE_FOLDER/
-cp -v ./strayacoin.conf $RELEASE_FOLDER/
-cp -v "./bin/common files/README.txt" $RELEASE_FOLDER
-cp -v "./bin/common files/libbitcoinconsensus-0.dll" $RELEASE_FOLDER
-cp -v "./bin/common files/mine.bat" $RELEASE_FOLDER
-cp -v "./bin/common files/mine.sh" $RELEASE_FOLDER
+mkdir -p $WIN_RELEASE_FOLDER
+cp -v ./src/strayacoin-cli.exe $WIN_RELEASE_FOLDER/
+cp -v ./src/strayacoind.exe $WIN_RELEASE_FOLDER/
+cp -v ./src/bench/bench_strayacoin.exe $WIN_RELEASE_FOLDER/
+#cp -v ./src/test/test_strayacoin.exe $WIN_RELEASE_FOLDER/
+cp -v ./src/qt/strayacoin-qt.exe $WIN_RELEASE_FOLDER/
+#cp -v ./src/qt/test/test_strayacoin-qt.exe $WIN_RELEASE_FOLDER/
+cp -v ./src/strayacoin-tx.exe $WIN_RELEASE_FOLDER/
+cp -v ./strayacoin.conf $WIN_RELEASE_FOLDER/
+cp -v "./bin/common files/README.txt" $WIN_RELEASE_FOLDER
+cp -v "./bin/common files/libbitcoinconsensus-0.dll" $WIN_RELEASE_FOLDER
+cp -v "./bin/common files/mine.bat" $WIN_RELEASE_FOLDER
+cp -v "./bin/common files/mine.sh" $WIN_RELEASE_FOLDER
 
-cd $RELEASE_FOLDER
-zip $ZIP_FILENAME *
+cd $WIN_RELEASE_FOLDER
+zip $WIN_ZIP_FILENAME *
 
 
 
