@@ -2,6 +2,11 @@ Strayacoin Core integration/staging tree
 =====================================
 
 
+Preparation
+----------------
+
+Extract /src/crypto/Lyra2REv2.zip
+
 https://www.strayacoin.org/
 
 What is strayacoin?
